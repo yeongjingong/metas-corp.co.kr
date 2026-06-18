@@ -1,2 +1,4 @@
-# metas-corp.co.kr
-METAS CORPORATION's Trade Agency Website
+theme: null
+plugins: []
+include:
+  - index.html
